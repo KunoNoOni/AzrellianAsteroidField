@@ -23,9 +23,9 @@ public class PowerBar : MonoBehaviour
 
 	void Update () 
 	{
-        if(powerBar.value == 0)
+        if(powerBar.value <= 0)
         {
-            //GameManager.gameOver = true;
+            GameManager.gameOver = true;
         }
 
         if(!GameManager.warp && !GameManager.gameOver)
@@ -34,7 +34,7 @@ public class PowerBar : MonoBehaviour
             if(coolDown <= 0)
             {
                 powerBar.value -= GameManager.powerDecay;
-                powerBarValue = (int)powerBar.value;
+                powerBarValue = (int)Mathf.Round(powerBar.value);
                 powerNumberText.text = powerBarValue.ToString() + "%";
                 coolDown = coolDownReset;
             }    

@@ -1,0 +1,19 @@
+<linker>
+	<assembly fullname="Assembly-CSharp">
+		<type fullname="TitlescreenButtons">
+			<method name="Instructions"/>
+			<method name="Credits"/>
+			<method name="ExitGame"/>
+			<method name="EnterField"/>
+		</type>
+		<type fullname="InstructionButtons">
+			<method name="EnterField"/>
+		</type>
+		<type fullname="CreditsButton">
+			<method name="Retry"/>
+		</type>
+		<type fullname="RetryButton">
+			<method name="Retry"/>
+		</type>
+	</assembly>
+</linker>

@@ -1,20 +1,20 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\ObjectSpawner.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\PowerBar.cs">
     <Files>
-      <File FileName="Assets\Scripts\PlayerController.cs" Line="25" Column="5" />
-      <File FileName="Assets\Scripts\ObjectPool.cs" Line="25" Column="6" />
+      <File FileName="Assets\Scripts\PlayerController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ObjectPool.cs" Line="1" Column="1" />
       <File FileName="Assets\Scripts\ObjectSpawner.cs" Line="67" Column="6" />
       <File FileName="Assets\Scripts\MoveObstacles.cs" Line="28" Column="43" />
-      <File FileName="Assets\Scripts\PowerBar.cs" Line="31" Column="54" />
+      <File FileName="Assets\Scripts\PowerBar.cs" Line="38" Column="71" />
       <File FileName="Assets\Scripts\GameManager.cs" Line="77" Column="14" />
-      <File FileName="Assets\Scripts\RetryButton.cs" Line="17" Column="46" />
-      <File FileName="Assets\Scripts\EnterField.cs" Line="26" Column="1" />
-      <File FileName="Assets\Scripts\MusicManager.cs" Line="26" Column="43" />
-      <File FileName="Assets\Scripts\SoundManager.cs" Line="34" Column="38" />
-      <File FileName="Assets\Scripts\TitlescreenButtons.cs" Line="36" Column="5" />
-      <File FileName="Assets\Scripts\InstructionButtons.cs" Line="15" Column="8" />
-      <File FileName="Assets\Scripts\CreditsButton.cs" Line="22" Column="2" />
+      <File FileName="Assets\Scripts\RetryButton.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\EnterField.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MusicManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SoundManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\TitlescreenButtons.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\InstructionButtons.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CreditsButton.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
