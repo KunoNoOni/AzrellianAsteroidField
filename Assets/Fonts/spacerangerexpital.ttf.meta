@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 49ded5a7ca032ec48bae2dac3c5829a9
+timeCreated: 1501438590
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Space Ranger Expanded Italic
+  fontNames:
+  - Space Ranger Expanded Italic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

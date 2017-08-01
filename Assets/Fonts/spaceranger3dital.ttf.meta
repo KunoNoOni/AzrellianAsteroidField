@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: b7622518f7e693648bc23cf52caddbd1
+timeCreated: 1501438590
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Space Ranger 3D Italic
+  fontNames:
+  - Space Ranger 3D Italic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 769d3c4ce68932441823e9a1b7a90c42
+timeCreated: 1501438590
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Space Ranger Italic
+  fontNames:
+  - Space Ranger Italic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

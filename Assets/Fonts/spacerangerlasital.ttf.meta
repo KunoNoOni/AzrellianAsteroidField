@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 6a3ff18b1b6464d498daaeba88c6aef4
+timeCreated: 1501438590
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Space Ranger Laser Italic
+  fontNames:
+  - Space Ranger Laser Italic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

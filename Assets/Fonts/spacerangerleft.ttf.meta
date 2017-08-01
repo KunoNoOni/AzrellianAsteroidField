@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: deeb17567b743e04fa17aeb1172238b4
+timeCreated: 1501438590
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Space Ranger Leftalic
+  fontNames:
+  - Space Ranger Leftalic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
